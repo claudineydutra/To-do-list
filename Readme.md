@@ -2,21 +2,23 @@
 
 ### Informações
 
-* Uma To-Do List simples e responsiva usando:
+> Uma To-Do List simples e responsiva usando:
 
-    HTML5;
-    CSS3;
-    JAVASCRIPT;
-    BOOTSTRAP.
+     HTML5
+     CSS3
+     JAVASCRIPT
+     BOOTSTRAP
 
 ### Funções
 
-* Adicionar nova tarefa
-* Mudar progresso da Tarefa
+> Adicionar nova tarefa
 
-    Para fazer
-    Processando
-    Pronta
+> Mudar progresso da Tarefa
+    
+     Para fazer
+     Processando
+     Pronta
 
-* Apagar tarefa
-* Alerta de nova tarefa e tarefa concluída
+> Apagar tarefa
+
+> Alerta de nova tarefa e tarefa concluída
